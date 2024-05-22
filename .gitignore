@@ -8,3 +8,5 @@ service_data
 .project
 .settings
 __pycache__
+
+/.idea
